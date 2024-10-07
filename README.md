@@ -1,9 +1,9 @@
 # Swiggy-Analysis-using-MySQL
 
-Problem Statement:- 
+# Problem Statement:- 
 Swiggy seeks insights from its SQL dataset. Implement sophisticated SQL queries with intricate joins for in-depth analysis and strategic decision-making.
 
-Project Aim :-
+# Project Aim :-
 
 1) Display all customers who live in 'Delhi'.
 2) Find the average rating of all restaurants in 'Mumbai'.
